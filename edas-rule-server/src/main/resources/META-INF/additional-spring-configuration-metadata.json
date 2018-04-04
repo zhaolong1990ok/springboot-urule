@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "urule.repository.databasetype",
+    "type": "java.lang.String",
+    "description": "A description for 'urule.repository.databasetype'"
+  },
+  {
+    "name": "urule.repository.databasetype",
+    "type": "java.lang.String",
+    "description": "A description for 'urule.repository.databasetype'"
+  },
+  {
+    "name": "urule.repository.xml",
+    "type": "java.lang.String",
+    "description": "A description for 'urule.repository.xml'"
+  }
+]}
